@@ -20,6 +20,12 @@
 - Fundamentos de **DevOps e Cloud Computing**
 - Desenvolvimento de habilidades em **Soft Skills e Metodologias Ágeis**
 
+## 📊 **Estatísticas no GitHub**
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaMitsuoka&show_icons=true&theme=dark)
+
+## 🚀 **Linguagens Mais Usadas**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaMitsuoka&layout=compact&theme=dark)
+
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/karina-miwa-mitsuoka/)  
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karina.mitsuoka@gmail.com)  
