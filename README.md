@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Karina Miwa Mitsuoka!
+# 👋 Olá, me chamo Karina Miwa Mitsuoka!
 
 🚀 Em transição de carreira para a área de Tecnologia da Informação, com foco em **Quality Assurance** e desenvolvimento. Apaixonada por inovação, novas tecnologias e programação, estou sempre buscando aprimorar minhas habilidades e adquirir novos conhecimentos.
 
