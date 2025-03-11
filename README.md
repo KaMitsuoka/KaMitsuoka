@@ -21,8 +21,10 @@
 - Desenvolvimento de habilidades em **Soft Skills e Metodologias Ágeis**
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/karinamiwa/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/karina-miwa-mitsuoka/)  
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karina.mitsuoka@gmail.com)  
+[![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:miwa_karina@hotmail.com)
+
 
 ---
 ✨ "Nada é impossível de ser alcançado e a idade é apenas um número!" ✨
