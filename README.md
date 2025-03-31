@@ -1,24 +1,27 @@
-# 👋 Olá, me chamo Karina Miwa Mitsuoka!
+👋 Olá, me chamo Karina Miwa Mitsuoka!
 
-🚀 Em transição de carreira para a área de Tecnologia da Informação, com foco em **Quality Assurance** e desenvolvimento. Apaixonada por inovação, novas tecnologias e programação, estou sempre buscando aprimorar minhas habilidades e adquirir novos conhecimentos.
+🚀 Em transição de carreira para a área de Tecnologia da Informação, com foco em Cyber Security e Suporte Técnico. Apaixonada por inovação, segurança digital e infraestrutura, estou sempre buscando aprimorar minhas habilidades e adquirir novos conhecimentos.
 
-## 🔹 Sobre mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Impacta Tecnologia
-- 💡 Foco em **Quality Assurance**, automação de testes e análise de dados
-- 🌎 Inglês avançado | Intercâmbio cultural de 6 meses na Nova Zelândia
-- 📚 Participando de bootcamps e cursos, incluindo **'Fundamentos de Suporte Técnico'** da Google
-- 💻 Conhecimentos básicos em **Python** e explorando Inteligência Artificial
+🔹 Sobre mim
 
-## 🔧 Tecnologias e Ferramentas
-- ✅ **Quality Assurance**: Testes manuais e automatizados
-- 🐍 **Python**: Scripts e análise de dados
-- 🛠️ **Ferramentas**: Selenium, Postman, Git/GitHub
-- 📊 **Banco de Dados**: SQL básico
+🎓 Cursando Sistemas de Informação na Impacta Tecnologia
+🔒 Foco em Cyber Security, análise de vulnerabilidades e suporte técnico
+🌎 Inglês avançado | Intercâmbio cultural de 6 meses na Nova Zelândia
+📚 Participando de bootcamps e cursos, incluindo 'Fundamentos de Suporte Técnico' da Google
+💻 Conhecimentos básicos em Python e explorando segurança da informação
 
-## 🌱 O que estou aprendendo agora
-- Automação de testes com **Selenium e Pytest**
-- Fundamentos de **DevOps e Cloud Computing**
-- Desenvolvimento de habilidades em **Soft Skills e Metodologias Ágeis**
+🔧 Tecnologias e Ferramentas
+🔐 Cyber Security: Análise de vulnerabilidades, pentesting básico e SIEM
+🖥 Suporte Técnico: Diagnóstico e resolução de problemas em hardware/software
+🛠️ Ferramentas: Wireshark, Nessus, Kali Linux, Git/GitHub
+📊 Banco de Dados: SQL básico
+☁ Infraestrutura: Conceitos de Cloud Computing e DevOps
+
+🌱 O que estou aprendendo agora
+Segurança ofensiva e defensiva
+Monitoramento e análise de logs
+Fundamentos de Redes e Protocolos de Segurança
+Desenvolvimento de habilidades em Soft Skills e Metodologias Ágeis
 
 ## 📊 **Estatísticas no GitHub**
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaMitsuoka&show_icons=true&theme=dark)
