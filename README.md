@@ -4,7 +4,7 @@
 
 ## 🔹 Sobre mim
 - 🎓 Cursando **Sistemas de Informação** na Impacta Tecnologia
-- 🧪 Coemçando como Estagiária de QA, aprendendo sobre testes funcionais, exploratórios e garantia de qualidade
+- 🧪 Começando como Estagiária de QA, aprendendo sobre testes funcionais, exploratórios e garantia de qualidade
 - 🔒 Foco em **Cyber Security**, análise de vulnerabilidades e suporte técnico
 - 🌎 Inglês avançado | Intercâmbio cultural de 6 meses na Nova Zelândia
 - 📚 Participando de bootcamps e cursos, incluindo **'Fundamentos de Suporte Técnico'** da Google
