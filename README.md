@@ -1,9 +1,10 @@
 # 👋 Olá, me chamo Karina Miwa Mitsuoka!
 
-🚀 Em transição de carreira para a área de Tecnologia da Informação, com foco em **Cyber Security** e **Suporte Técnico**. Apaixonada por inovação, segurança digital e infraestrutura, estou sempre buscando aprimorar minhas habilidades e adquirir novos conhecimentos.
+🚀 Em transição de carreira para a área de Tecnologia da Informação, atualmente atuando como Estagiária de QA. Tenho foco em Cyber Security, Suporte Técnico e Qualidade de Software. Apaixonada por inovação, segurança digital e infraestrutura, estou sempre em busca de aprendizado contínuo e novos desafios.
 
 ## 🔹 Sobre mim
 - 🎓 Cursando **Sistemas de Informação** na Impacta Tecnologia
+- 🧪 Coemçando como Estagiária de QA, aprendendo sobre testes funcionais, exploratórios e garantia de qualidade
 - 🔒 Foco em **Cyber Security**, análise de vulnerabilidades e suporte técnico
 - 🌎 Inglês avançado | Intercâmbio cultural de 6 meses na Nova Zelândia
 - 📚 Participando de bootcamps e cursos, incluindo **'Fundamentos de Suporte Técnico'** da Google
@@ -12,15 +13,17 @@
 ## 🔧 Tecnologias e Ferramentas
 - 🔐 **Cyber Security**: Análise de vulnerabilidades, pentesting básico e SIEM
 - 🖥 **Suporte Técnico**: Diagnóstico e resolução de problemas em hardware/software
+- 🧪 QA: Testes funcionais e exploratórios | Iniciando estudos em automação
 - 🛠️ **Ferramentas**: Wireshark, Nessus, Kali Linux, Git/GitHub
 - 📊 **Banco de Dados**: SQL básico
 - ☁ **Infraestrutura**: Conceitos de Cloud Computing e DevOps
 
 ## 🌱 O que estou aprendendo agora
+- SConceitos e práticas de QA (testes, metodologias ágeis, automação)
 - Segurança ofensiva e defensiva
 - Monitoramento e análise de logs
-- Fundamentos de **Redes e Protocolos de Segurança**
-- Desenvolvimento de habilidades em **Soft Skills e Metodologias Ágeis**
+- Fundamentos de Redes e Protocolos de Segurança
+- Desenvolvimento de habilidades em **Soft Skills, Metodologias Ágeis e Comunicação Assertiva**
 
 ## 📊 **Estatísticas no GitHub**
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaMitsuoka&show_icons=true&theme=dark)
